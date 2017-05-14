@@ -1,4 +1,4 @@
-package com.vrtoonjava.banking;
+package com.mindaryn.banking;
 
 import org.springframework.stereotype.Service;
 

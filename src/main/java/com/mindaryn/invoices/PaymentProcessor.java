@@ -1,8 +1,8 @@
-package com.vrtoonjava.invoices;
+package com.mindaryn.invoices;
 
-import com.vrtoonjava.banking.BankingService;
-import com.vrtoonjava.banking.Payment;
-import com.vrtoonjava.banking.PaymentException;
+import com.mindaryn.banking.BankingService;
+import com.mindaryn.banking.Payment;
+import com.mindaryn.banking.PaymentException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.integration.annotation.ServiceActivator;
 import org.springframework.stereotype.Component;

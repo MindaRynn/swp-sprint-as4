@@ -1,4 +1,4 @@
-package com.vrtoonjava.invoices;
+package com.mindaryn.invoices;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

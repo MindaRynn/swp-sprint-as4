@@ -1,4 +1,4 @@
-package com.vrtoonjava.invoices;
+package com.mindaryn.invoices;
 
 import org.testng.annotations.Test;
 

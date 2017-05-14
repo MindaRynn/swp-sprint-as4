@@ -1,6 +1,6 @@
-package com.vrtoonjava.banking;
+package com.mindaryn.banking;
 
-import com.vrtoonjava.invoices.Invoice;
+import com.mindaryn.invoices.Invoice;
 
 /**
  * Creates payment for bank from the invoice.

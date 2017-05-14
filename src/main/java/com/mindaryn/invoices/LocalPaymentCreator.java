@@ -1,8 +1,8 @@
-package com.vrtoonjava.invoices;
+package com.mindaryn.invoices;
 
-import com.vrtoonjava.banking.Payment;
-import com.vrtoonjava.banking.PaymentCreator;
-import com.vrtoonjava.banking.PaymentException;
+import com.mindaryn.banking.Payment;
+import com.mindaryn.banking.PaymentCreator;
+import com.mindaryn.banking.PaymentException;
 import org.springframework.integration.annotation.Transformer;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.vrtoonjava.invoices;
+package com.mindaryn.invoices;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;
